@@ -1,0 +1,7 @@
+sklearn
+tensorflow
+imutils
+numpy
+opencv-python==4.2.0.*
+matplotlib==3.2.1
+scipy==1.4.1
